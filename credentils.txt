@@ -1,0 +1,84 @@
+IP:10.50.1600.1
+SERVER:ASGSQLSYNERGY
+Username :CEC
+Password : CEC123
+
+
+---------------------------------------------------------------
+atherm@alsatergroup.com
+Asdfghjkl1@
+
+hayyak
+  _ip = "172.30.18.77"
+ _username = hayakconn
+ _pwd = Hayak@2020#1
+ --------------------------------------
+ 
+ Online
+_ip = 172.30.18.77
+_username = OnlineMarketing
+_pwd = 0n1ineM@rke7iN6#
+
+----------------------------------------
+ 
+ K-net
+ 
+_ip = "172.30.18.77"
+_username = knetconn
+_pwd = Ash@2020#l1
+
+------------------------------------------------------------
+alsayercertified
+
+  _ip = "172.30.18.77"
+ _username = "alsayercertified"
+ _pwd = "Ash@2021#"
+-------------------------------------------------------
+
+alsayercertified
+
+  _ip = "172.30.18.77"
+ _username = "alsayercertified"
+ _pwd = "Ash@2021#"
+-------------------------------------------------------
+
+ _ip = "172.16.30.59"
+ _username = "ashconn"
+ _pwd = "w@Cm$Udj_mm@x#lPZ"
+ ----------------------------------------------------
+ 
+    _ip = "172.30.18.77"
+  _username = "tms"
+ _pwd = "Alsayer@2024"
+ ----------------------------------------------------------------------
+   _ip = "172.30.18.77"
+ _username = "accessconn"
+_pwd = ":jZEz*&D^g^v5jE/"
+----------------------------------------------
+
+ip = "ASHDB19.alsayergroup.com"
+Initial Catalog=knetipos;
+User ID=knetipos;
+Password=Ash@2021$Kk
+
+----------------------------------------------------------------------
+Data Source=172.16.30.197;
+Initial Catalog=AsgRMS;
+User ID=rmsadm;
+Password=Rms@2021$
+
+---------------------------------------------------------------------
+REMOTE SERVER
+IP: 172.16.30.165
+Pasword: 123456As
+---------------------------------
+DB_SERVER=localhost
+DB_USER=sa
+DB_PASSWORD=123456789
+DB_DATABASE=TMSMGT
+-------------------------------------------------
+   _ip = "172.30.18.77"
+ _username = "ractokenmgt"
+_pwd = "8VQRT!CJsi%*"
+
+-----------------------------------------------------
