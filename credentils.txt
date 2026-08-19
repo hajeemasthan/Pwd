@@ -82,3 +82,8 @@ DB_DATABASE=TMSMGT
 _pwd = "8VQRT!CJsi%*"
 
 -----------------------------------------------------
+
+SAP API:
+https://api012.successfactors.eu/odata/v2/EmpJob?$select=userId,managerId,emplStatus,lastModifiedOn,userNav/firstName,userNav/lastName,userNav/dateOfBirth,userNav/email&$expand=userNav&$format=json
+username = "SF_APIADMIN@alsayerintP";
+password = "Ash@1234";
